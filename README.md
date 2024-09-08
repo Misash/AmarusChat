@@ -2,9 +2,13 @@
 
 Chat with your llms privately 
 
-## Install Dependencies
-```bash
-  python3 -m venv .venv
-  source .venv/bin/activate
-  pip3 install -r requirements.txt
-```
+# Roadmap
+
+- [] reserach about quantization 
+- [] make a mvp with a small llm
+- [] create a chat 
+- [] handle memory 
+- [] add encrypted memory
+- [] add secure delete
+- [] add encrypted logging
+- [] add zk-llms
